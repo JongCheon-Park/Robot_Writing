@@ -1,0 +1,40 @@
+{
+  "image_size": [
+    500,
+    550
+  ],
+  "font_path": "mm.ttf",
+  "font_size": 500,
+  "completed": [
+    "각",
+    "가",
+    "간"
+  ],
+  "current_index": 0,
+  "characters": {
+    "가": {
+      "image_path": "",
+      "points": [],
+      "sequence": [],
+      "strokes": []
+    },
+    "각": {
+      "image_path": "",
+      "points": [],
+      "sequence": [],
+      "strokes": []
+    },
+    "간": {
+      "image_path": "img\\U+AC04.png",
+      "points": [],
+      "sequence": [],
+      "strokes": []
+    },
+    "갇": {
+      "image_path": "img\\U+AC07.png",
+      "points": [],
+      "sequence": [],
+      "strokes": []
+    }
+  }
+}
