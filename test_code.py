@@ -73,7 +73,7 @@ class HangeulVisualizer:
 
         self.ax.set_title(f"{char} ({self.index + 1}/{len(self.characters)})", fontsize=14)
         self.fig.canvas.draw()
-
+    #7113
     def next_char(self, event=None):
         self.index = (self.index + 1) % len(self.characters)
         self.draw_character()
