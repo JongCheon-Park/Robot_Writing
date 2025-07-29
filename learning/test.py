@@ -110,7 +110,7 @@ def run_inference(model_path, image_path, points):
 # 예시 실행
 if __name__ == "__main__":
     # 예시: 테스트 샘플 지정
-    model_file = "output/weights/0001/strokenet_epoch3000.pt"
+    model_file = "output/weights/0000/strokenet_epoch1000.pt"
     image_file = "../img/U+AC07.png"
     with open("../progress.json", "r", encoding="utf-8") as f:
         raw_data = json.load(f)

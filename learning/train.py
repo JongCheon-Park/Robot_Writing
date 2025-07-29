@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 IMAGE_SIZE = (550, 500)
 MAX_STROKES = 15
 BATCH_SIZE = 64
-EPOCHS = 50000
+EPOCHS = 100000
 ALPHA = 1.0
 DEVICE = 'cuda' if torch.cuda.is_available() else 'cpu'
 OUTPUT_DIR = "output"

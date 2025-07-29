@@ -6,7 +6,7 @@
   "font_path": "mm.ttf",
   "font_size": 500,
   "completed": [],
-  "current_index": 1039,
+  "current_index": 2159,
   "characters": {
     "가": {
       "image_path": "img\\U+AC00.png",
@@ -150951,6 +150951,17 @@
       ],
       "num_strokes": 13,
       "num_points": 173
+    },
+    "폽": {
+      "image_path": "",
+      "points": [],
+      "thicknesses": [],
+      "strokes": [],
+      "sequence": [],
+      "stroke_labels": [],
+      "stroke_lengths": [],
+      "num_strokes": 0,
+      "num_points": 0
     }
   }
 }
